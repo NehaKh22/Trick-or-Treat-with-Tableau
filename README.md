@@ -1,4 +1,4 @@
-# **My Tableau Report:**
+# **Trick or Treat with Tableau:**
 
 In my recent Tableau project, I undertook a comprehensive analysis of a grocery store's sales dataset, delving into the intricate details of Super Market Grocery Sales encompassing over 30,000 records. Leveraging the versatile capabilities of Tableau, I crafted engaging and insightful visualizations, interactive dashboards, and compelling data narratives. 
 
